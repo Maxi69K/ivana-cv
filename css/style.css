@@ -1,0 +1,57 @@
+.left-holder h1,
+p,
+.title {
+  color: #7d3e00;
+}
+.black {
+  color: black;
+}
+
+.left-holder {
+  background-color: #EFDECD;
+}
+
+.skills {
+  background-color: #7d3e00;
+  color: #fff;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  margin-top: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 8px !important;
+  border-color: #7d3e00 !important;
+}
+
+.circle>p {
+  margin: 0;
+  padding: 0;
+}
+
+.progress-bar {
+  background-color: #7d3e00 !important;
+}
+
+#myFooter {
+  text-align: center;
+  padding: 10px 0;
+  color: #7d3e00;
+}
+
+#myFooter small {
+  font-size: 12px;
+}
+
+#myFooter small a {
+  text-decoration: none;
+  color: #7d3e00;
+}
